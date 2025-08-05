@@ -2,7 +2,7 @@
 
 > "Facemash sparked the fire — Frostspire built the world."
 
-Frostspire is a PHP + MySQL powered blog platform, inspired by the creative energy of *The Social Network* and driven by the ambition to bring design, storytelling, and backend development together in a single immersive webspace.
+Frostspire is a PHP + MySQL powered blog platform, inspired by the creative energy and driven by the ambition to bring design, storytelling, and backend development together in a single immersive webspace.
 
 ---
 
@@ -13,7 +13,7 @@ Frostspire is a PHP + MySQL powered blog platform, inspired by the creative ener
 - 🏛️ Distinct chamber-based page structure (Gate, Antechamber, Vault, Echo, Spire)
 - 📝 Post creation, storage & dynamic retrieval using SQL
 - 🎨 Themed UI based on custom CSS for each chamber:
-  - `Gitae` (login hub)
+  - `Gate` (login hub)
   - `Vault` (admin archive)
   - `Echos` (blog post display)
   - `Antechamber` (central bridge)
